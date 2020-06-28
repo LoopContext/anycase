@@ -1,8 +1,7 @@
 # anycase
 
 [![Godoc Reference](https://godoc.org/github.com/loopcontext/anycase?status.svg)](http://godoc.org/github.com/loopcontext/anycase)
-[![Build Status](https://travis-ci.org/loopcontext/anycase.svg)](https://travis-ci.org/loopcontext/anycase)
-[![Coverage](http://gocover.io/_badge/github.com/loopcontext/anycase?0)](http://gocover.io/github.com/loopcontext/anycase)
+[![Coverage](http://gocover.io/_badge/github.com/loopcontext/anycase)](http://gocover.io/github.com/loopcontext/anycase)
 [![Go Report Card](https://goreportcard.com/badge/github.com/loopcontext/anycase)](https://goreportcard.com/report/github.com/loopcontext/anycase)
 
 anycase is a go package for converting string case to various cases (e.g.
